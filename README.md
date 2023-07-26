@@ -14,13 +14,30 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 - [twt](https://grk2696.de/?page_id=349) - Collaboration and Interdisciplinarity in Science and Technology
 
 ## Databases
+### Publications
 - [MAG(Microsoft Academic Graph)](https://docs.microsoft.com/en-us/academic-services/graph/)
 - [WoS(Web of Science)](https://clarivate.com/webofsciencegroup/solutions/web-of-science/)
 - [APS(American Phisical Society)](https://journals.aps.org/datasets)
 - [PubMed](https://www.nlm.nih.gov/databases/download/pubmed_medline.html)
+- [SciSciNet](https://github.com/kellogg-cssi/SciSciNet) - A large-scale open data lake for the science of science research.
+- Dimensions
+
+### Researchers
 - [OpenAlex](https://openalex.org/) - An open and comprehensive catalog of scholarly papers, authors, institutions, and more.
 - [Academic Tree](https://academictree.org/) - a single, interdisciplinary academic genealogy
-- [SciSciNet](https://github.com/kellogg-cssi/SciSciNet) - A large-scale open data lake for the science of science research.
+- ORCID
+- Math genealogy
+- ProQuest
+- Open Syllabus
+
+### Reviews
+- OpenReview
+- Publons
+- ORCID
+- PeerJ
+- Crossref
+- eLife
+
 
 ## Libraries, Softwares
 - [scisci](https://github.com/DiegoKoz/scisci) - Semantic and Relational Spaces in Science of Science: Deep Learning Models for Article Vectorisation
@@ -30,11 +47,11 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 [Paper](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00260/115875/Reproducible-Science-of-Science-at-scale-pySciSci)
 - [Sci2 Tool](https://sci2.cns.iu.edu/user/documentation.php)
 
-## Books, Slides and Reviews
-- [The science of science](https://www.dashunwang.com/book/the-science-of-science) - 
+## Books, Slides and Review papers
+- [The science of science](https://www.dashunwang.com/book/the-science-of-science) (Dashung Wang et al. 2021)
 - [Science of science](https://www.science.org/doi/10.1126/science.aao0185) (Santo Fortunato et al. 2018)
-- [Data, measurement and empirical methods in the science of science](https://www.nature.com/articles/s41562-023-01562-4)
-- [Science of Science Summer School (S4) Lectures](https://github.com/SciSciSummerSchool/s4_lectures) [website](https://s4.scienceofscience.org/)
+- [Data, measurement and empirical methods in the science of science](https://www.nature.com/articles/s41562-023-01562-4) ()
+- [S4 Lectures](https://github.com/SciSciSummerSchool/s4_lectures) - Science of Science Summer School [website](https://s4.scienceofscience.org/)
 
 
 ## Journals
