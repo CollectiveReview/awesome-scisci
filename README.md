@@ -24,16 +24,15 @@ Science of Science is an emerging interdisciplinary field that relies on big dat
 
 ### Researchers
 - [OpenAlex](https://openalex.org/) - An open and comprehensive catalog of scholarly papers, authors, institutions, and more.
-- [Academic Tree](https://academictree.org/) - a single, interdisciplinary academic genealogy
-- ORCID
-- Math genealogy
+- [ORCID](https://orcid.figshare.com/articles/dataset/ORCID_Public_Data_File_2022/21220892/6?file=37635374) - alphanumeric code to uniquely identify authors and contributors of scholarly communication. 14,727,479 live accounts as of 2 August 2022
+- [Academic Tree](https://academictree.org/) - a single, interdisciplinary academic genealogy. 843,000 people and 812,200 connections between them as of 29 July 2023
+- [Math genealogy](https://www.genealogy.math.ndsu.nodak.edu/) - genealogy in mathematics. 293,711 records as of 29 July 2023
 - ProQuest
 - Open Syllabus
 
 ### Reviews
-- OpenReview
-- Publons
-- ORCID
+- [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Track/Datasets_and_Benchmarks/Round1) - One of the biggest open review platform. The external  link leads you to example dataset of Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 1)
+- [Publons](https://publons.com/) - 
 - PeerJ
 - Crossref
 - eLife
